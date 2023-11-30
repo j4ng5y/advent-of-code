@@ -1,0 +1,1 @@
+/Users/jordan.gregory/Development/rust/src/github.com/j4ng5y/advent-of-code/day-1/target/debug/part-1: /Users/jordan.gregory/Development/rust/src/github.com/j4ng5y/advent-of-code/day-1/src/bin/part-1.rs
